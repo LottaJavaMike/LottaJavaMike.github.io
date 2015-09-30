@@ -1,0 +1,54 @@
+@media only screen and (max-width: 700px) and (orientation: landscape) {
+	p {
+		display: none;
+	}
+}
+.container {
+	
+}
+body {
+	/*font-family: 'Lato', sans-serif;*/
+	font-family: 'Roboto Condensed', sans-serif;
+	color: orangered;
+	font-weight: 300;
+    background-color: lightgray;
+    /*background-color: white; */
+	background-image: url(../images/AdobeStock_74159004_WM.jpeg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.text-muted {
+	color: goldenrod;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.title-super{
+	font-size: 60px;
+}
+
+.title-logo {
+	margin-top: 20px;
+}
+	display: flex;
+	flex-direction: row-reverse;
+}
+.logo {
+	width: 70%;
+	display: block;
+	margin: 1.2em;
+}
+.row {
+	width: 100%;
+	margin-bottom: 15px;
+	display: flex;
+	flex-wrap: wrap;
+}
