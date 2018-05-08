@@ -12,9 +12,6 @@ labelledby="myModalLabel" aria-hidden="true">
 Attributes for element div:
 Global attributes
 
-//coding is correct as per the examples given in Lesson 3 of the Intro to HTML and CSS course:
-//https://www.udacity.com/course/viewer#!/c-ud304/l-2794148535/e-2730818615/m-2730818617
-
 Sources:
 api.jquery.com
 http://getbootstrap.com/css/
